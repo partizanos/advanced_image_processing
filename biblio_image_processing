@@ -1,0 +1,50 @@
+A. K. Jain, Fundamentals of Digital Image Processing, Prentice-Hall,1989.
+P. Moulin, Lecture Notes, Advanced Image Processing ECE497PM, UIUC, 1998.
+M. Vetterli, Lecture Notes: Advanced Signal Processing: Wavelets and Applications, EPFL, 1999.
+M. Unser, Lecture Notes: Image Processing, EPFL.
+B. Girod, Lecture Notes: EE368: Digital Image Processing, Stanford, 2000
+
+A. Bovik, Handbook of Image & Video Processing, Academic Press, 2000.
+H. Stark and J. W. Woods, Probability, Random Processes, and Estimation Theory for Engineers, Prentice-Hall, 1994.
+A. Gersho and R. M. Gray, Vector Quantization and Signal Compression, Kluwer, 1992.
+M. Vetterli and J. Kovacevic, Wavelets and Subband Coding, Prentice-Hall, 1995.
+
+Deep learning Ian goodfellow 
+http://cui.unige.ch/~aip/
+
+https://arxiv.org/pdf/1606.05908.pdf
+
+http://www.cns.nyu.edu/~lcv/texture/
+
+GAN
+VAE
+A. Dosovitsky CVPR Boston 
+hand crafted features 
+SGD ADAM 2014
+
+automatic feature extraction
+
+
+
+
+
+noise is additive or multiplicative 
+ucorellated wiki
+bivariate gaussian
+
+B.A. Wandell, Foundations of Vision, Sinauer Associates, Inc., 1995.
+
+G. Strang and T. Nguen, Wavelets and Filter Banks, Wellesley, MA,
+Wellesley-Cambrodge, 1996.
+S. Mallat, A Wavelet Tour of Signal Processing, San Diego, Academic Press,
+1998.
+M. Rabbani and P. Jones, Digital Compression Techniques, SPIE, 1991.
+
+S.G. Mallat, A theory of multiresolution signal decomposition: the wavelet
+representation, IEEE Trans. Pattern Analysis and Machine Intelligence,
+vol. PAMI-11, No 7, pp. 674-693, 1989.
+
+
+DCT
+DWT
+DFT
