@@ -23,7 +23,7 @@ def psnr(img1, img2, alpha=8):
     return 20 * math.log10(PIXEL_MAX / math.sqrt(mse))
 
 def get_img_with_pepper_salt_noise(img, p=0.4, q=0.7):
-    im = copy.deepcopy(img)
+        im = copy.deepcopy(img)
     for i in range(0, len(im)-1):
         for j in range(0, len(im[i])-1):
             r = random.random()
